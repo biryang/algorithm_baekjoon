@@ -1,2 +1,0 @@
-# algorithm_baekjoon
-algorithm_baekjoon
